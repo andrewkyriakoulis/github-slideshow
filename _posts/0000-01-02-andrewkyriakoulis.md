@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Andrew's second slide!"
 ---
 
 >You can't handle the truth!
